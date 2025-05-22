@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Mohamed-Amin!
 
 🎓 Master’s student in Computer Engineering at Abdelmalek Essaâdi University.  
-🔥 Passionate about Spring Framework and DevOps solutions.
 
-## 🧠 About Me
+
+## 🚀 About Me
 
 - 🌱 Currently learning Azure Cloud and exploring cloud-native architectures.
 - 📚 Expanding my skills in CI/CD pipelines, microservices, and scalable backend systems.
