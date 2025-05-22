@@ -2,6 +2,7 @@
 
 🎓 Master’s student in Computer Engineering at Abdelmalek Essaâdi University.  
 
+---
 
 ## 🚀 About Me
 
