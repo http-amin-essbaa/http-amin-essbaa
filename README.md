@@ -1,5 +1,15 @@
 # 👋 Hi, I'm Mohamed-Amin!
 
+🎓 Master’s student in Computer Engineering at Abdelmalek Essaâdi University.  
+🔥 Passionate about Spring Framework and DevOps solutions.
+
+## 🧠 About Me
+
+- 🌱 Currently learning Azure Cloud and exploring cloud-native architectures.
+- 📚 Expanding my skills in CI/CD pipelines, microservices, and scalable backend systems.
+- 🛠️ Languages & Tools: Java · Azure Cloud · Docker · Kubernetes · SQL · Spring Framework · Git
+
+
 <!--
 **http-amin-essbaa/http-amin-essbaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
