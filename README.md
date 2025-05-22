@@ -22,10 +22,11 @@
 
 ---
 
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=http-amin-essbaa&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=http-amin-essbaa&layout=compact&theme=dark)  
-
+# 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=http-amin-essbaa&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=http-amin-essbaa&theme=github-dark&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+</p>
 
 <!--
 **http-amin-essbaa/http-amin-essbaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
