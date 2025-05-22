@@ -22,7 +22,7 @@
 
 ---
 
-#3 📊 GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=http-amin-essbaa&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" /><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=http-amin-essbaa&theme=github-dark&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
