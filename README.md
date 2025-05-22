@@ -26,6 +26,7 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=http-amin-essbaa&show_icons=true&theme=dark)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=http-amin-essbaa&layout=compact&theme=dark)  
 
+![Metrics](https://metrics.lecoq.io/your-username?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&config.timezone=Africa%2FCasablanca)
 <!--
 **http-amin-essbaa/http-amin-essbaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
