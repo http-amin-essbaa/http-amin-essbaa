@@ -1,16 +1,16 @@
-# 👋 Hi, I'm Mohamed-Amin!
+## 👋 Hi, I'm Mohamed-Amin!
 
 🎓 Master’s student in Computer Engineering at Abdelmalek Essaâdi University.  
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
 - 🌱 Currently learning Azure Cloud and exploring cloud-native architectures.
 - 📚 Expanding my skills in CI/CD pipelines, microservices, and scalable backend systems.
 - 🛠️ Languages & Tools: Java · Azure Cloud · Docker · Kubernetes · SQL · Spring Framework · Git
 
-## 🛠️ Tools & Technologies
+### 🛠️ Tools & Technologies
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
@@ -22,13 +22,13 @@
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=http-amin-essbaa&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" /><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=http-amin-essbaa&theme=github-dark&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
 </p>
 
-## 🤝 Let's Connect!
+### 🤝 Let's Connect!
 <br>
 <p align="center">
   <a href="https://linkedin.com/in/mohamed-amin-es-sbaa" target="_blank">
@@ -40,7 +40,7 @@
 </p>
 
 ---
-## 🎉 Hobbies
+### 🎉 Hobbies
 
 <p>Experimenting with algorithmic flavor combinations to optimize taste matrices in Moroccan cuisine</p>
 <br>
