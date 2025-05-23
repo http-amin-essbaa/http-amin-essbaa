@@ -28,8 +28,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=http-amin-essbaa&theme=github-dark&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
 </p>
 
-## 🌍 Let's Connect!
-
+## 🤝 Let's Connect!
+<br>
 <p align="center">
   <a href="https://linkedin.com/in/mohamed-amin-es-sbaa" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -40,10 +40,10 @@
 </p>
 
 ---
-## ⚽ Hobbies & Interests
+## 🎉 Hobbies
 
 <p>Experimenting with algorithmic flavor combinations to optimize taste matrices in Moroccan cuisine</p>
-
+<br>
 <div align="center">
 <img src="https://media.giphy.com/media/1Y8W9ulKegQLFHp5f4/giphy.gif?cid=ecf05e47klpg7igmee247ay02dkd1xz6r00cs3titox0lpyy&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" >
 </div>
