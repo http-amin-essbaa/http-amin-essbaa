@@ -40,7 +40,13 @@
 </p>
 
 ---
+## ⚽ Hobbies & Interests
 
+<img src="[https://media.giphy.com/media/your-gif-code/giphy.gif](https://media.giphy.com/media/1Y8W9ulKegQLFHp5f4/giphy.gif?cid=ecf05e47klpg7igmee247ay02dkd1xz6r00cs3titox0lpyy&ep=v1_gifs_search&rid=giphy.gif&ct=g)" width="150" align="right">
+
+I'm a football enthusiast and an amateur chef ®, who loves experimenting with flavors from Moroccan cuisine.
+
+![Football](https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif) ![Cooking](https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif)
 <!--
 **http-amin-essbaa/http-amin-essbaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
