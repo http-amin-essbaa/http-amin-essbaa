@@ -42,7 +42,7 @@
 ---
 ## ⚽ Hobbies & Interests
 
-<img src="https://media.giphy.com/media/1Y8W9ulKegQLFHp5f4/giphy.gif?cid=ecf05e47klpg7igmee247ay02dkd1xz6r00cs3titox0lpyy&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="150" align="center">
+<img src="https://media.giphy.com/media/1Y8W9ulKegQLFHp5f4/giphy.gif?cid=ecf05e47klpg7igmee247ay02dkd1xz6r00cs3titox0lpyy&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" align="center">
 
 
 
