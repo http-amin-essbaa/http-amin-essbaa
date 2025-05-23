@@ -28,6 +28,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=http-amin-essbaa&theme=github-dark&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
 </p>
 
+---
+
 ### 🤝 Let's Connect!
 <br>
 <p align="center">
