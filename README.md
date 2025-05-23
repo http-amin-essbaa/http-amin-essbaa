@@ -46,7 +46,7 @@
 
 I'm a football enthusiast and an amateur chef ®, who loves experimenting with flavors from Moroccan cuisine.
 
-![Football](https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif) ![Cooking](https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif)
+
 <!--
 **http-amin-essbaa/http-amin-essbaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
