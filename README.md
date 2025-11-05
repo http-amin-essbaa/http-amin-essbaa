@@ -1,6 +1,9 @@
 ## 👋 Hi, I'm Mohamed-Amin!
 
-🎓 Master’s student in Computer Engineering at Abdelmalek Essaâdi University.  
+🎓 Master’s student in Safe Software Engineering at Paris Est University.  
+
+
+
 
 ---
 
